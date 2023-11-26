@@ -9,7 +9,7 @@ const NavBar = () => {
 
           <div>
             <button disabled={true} className="btn btn-primary">
-              Your Balance
+              Pay Money
             </button>
           </div>
         </div>
